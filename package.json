@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/tejitak/node-line-bot-api#readme",
   "dependencies": {
+    "get-json": "^1.0.0",
     "linebot": "^1.4.1",
     "superagent": "^2.3.0"
   },
